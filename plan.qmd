@@ -1,0 +1,46 @@
+---
+title: "Planificación General"
+format: html
+editor: visual
+---
+
+# Planificación General OCS y LISA 2025
+
+[Detalle Planificación OCS](https://planificacion-observatorios-2025.github.io/OCS-COES/planificacion.html)
+
+[Detalle Planificación LISA](https://planificacion-observatorios-2025.github.io/planificacion-lisa/planificacion.html)
+
+# Resumen
+
+## Hitos
+
+| Observatorio | Mayo                                    | Junio                            | Julio                  | Agosto                                       | Septiembre                                 | Octubre                          | Noviembre   |
+|--------------|-----------------------------------------|----------------------------------|------------------------|----------------------------------------------|--------------------------------------------|----------------------------------|-------------|
+| OCS          | Conversatorio Cohesión Social I         | Conversatorio Cohesión Social II | ISA Forum of Sociology | Presentación Sitio Web y Visualizador OCSVIS | Conversatorio Cohesión Social III          | Conversatorio Cohesión Social IV |             |
+| LISA         | Taller Ciencia Abierta Primera Semestre | Deadline Envio Artículo          |                        | Taller Ciencia Abierta Segundo Semestre I    | Taller Ciencia Abierta Segundo Semester II |                                  | Debate ANID |
+
+## Actividades y Tareas
+
+### OCS
+
+1.  Construcción Sitio Web y Visualizador
+2.  Contratar Asistente
+3.  Proponer invitados a las actividades
+4.  Difusión de cápsulas
+5.  Merchandising.
+6.  (Confirmar) Participación en Congresos. ¿Conferencia COES?
+7.  (Confirmar) Trabajar en un artículo
+8.  ¿Haremos algo respecto a la colaboración internacional?
+9.  (Confirmar) Actualización de logo Observatorio
+10. Participación en prensa
+
+### LISA
+
+1.  Construcción Sitio Web y Visualizador
+2.  Terminar artículo y enviar el abstract
+3.  Difusión de cápsulas
+4.  Proponer invitados actividades ANID (y confirmar fechas)
+5.  Decidir universidades que se visitarán
+6.  Merchandising
+7.  Participación en prensa
+8.  Mantención insumos CAIS
