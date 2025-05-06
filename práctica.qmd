@@ -1,0 +1,58 @@
+---
+title: "Planificación Práctica"
+format: html
+editor: visual
+---
+
+El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad de Chile contempla que la práctica profesional tiene una duración mínima de 360 horas. Considerando 22 horas semanales, ese plazo se cumple en 17 semanas. A partir de ello, esta planificación tiene un componentente mínimo (las primeras 17 semanas), y un componente opcional (semanas 18 a 29, coincidiendo con el fin presupuesto disponible y el término de las actividades COES 2025, a finales de noviembre).
+
+# Actividades
+
+[Carta Gantt](https://docs.google.com/spreadsheets/d/1KJkuKqnOW3v9FGIrb8fp4tja7Wz0asYXpW9YySAW8vc/edit?gid=0#gid=0)
+
+## Componente Mínimo
+
+### Semanas 1 a 5 (12 de mayo al 13 de junio)
+
+Este primer mes de trabajo debería estar orientado a la realización del primer conversatorio a mediados de junio. Por ello, la primera versión del visualizador debería ya estar en línea con datos de Chile y América Latina, sirviendo como insumo para la discusión. Por ello, espero que el practicante pueda:
+
+- Apoyar en la construcción de índices de Cohesión Social en América Latina a partir de LAPOP, Latinobarometro y WVS.
+- Apoyar en la corrección de documentos y repositorios relacionados a los visualizadores.
+- Apoyar en la construcción y publicación del sitio web de OCS, y los visualizadores. 
+- Apoyar en tareas de difusión y logística en las semanas previas al primer conversatorio.
+
+### Semanas 6 a 10 (16 de junio al 18 de julio)
+
+El segundo mes de trabajo estará orientado a LISA, fundamentalmente a la construcción de la página web. Al final de este período, debería tener lista una propuesta de sitio web para ser revisada y corregida.
+
+Además, entre julio y agosto se debería realizan los talleres de Ciencia Abierta comprometidos, tentantivamente en la Escuela de Invierno ELSOC y en la Jornada de Jóvenes Investigadores de la OBDE (por confirmar). Por lo que el prácticante debería involucrarse en la planificación de estas actividades.
+
+### Semanas 11 a 16 (21 de julio al 29 de agosto)
+
+Este tercer mes estará orientado a la realización del segundo conversatorio, a fines de agosto. El objetivo es enriquecer al visualizador como insumo de discusión, incluyendo otras fuentes nacionales. Por ello, espero que el practicante participe en la construcción de una propuesta de medición de la cohesión social a partir de datos de la Encuesta CASEN y la Encuesta Bicentenario de la UC. 
+
+Por cierto, nuevamente debería involucrarse en las tareas de logística y difusión que requiera la realización del conversatorio. 
+
+### Semana 17 (1 al 5 de septiembre)
+
+Fin del componente mínimo (cumple las 360 horas). Debería proponer un primer artículo o cápsula para ser publicado en el nuevo sitio web de LISA.
+
+## Componente Opcional
+
+### Semanas 18 a 25 (8 de septiembre al 31 de octubre)
+
+Estos dos meses de trabajo (relativos, pues incluye la semana de receso por fiestas patrias) estarán orientados al tercer conversatorio y a la Conferencia COES (es posible participar en otras instancias, tanto en LISA como en el OCS). Por ello, el trabajo del prácticante estará orientado a seguir complementando el visualizador. Propongo realizar un análisis factorial a la propuesta de medición hecha a partir de ELSOC.
+
+### Semanas 26 a 29 (3 al 28 de noviembre)
+
+Este último mes de trabajo estará dedicado a LISA, principalmente a dos actividades:
+
+- Revisar y corregir el libro de código de CAIS
+- Apoyar en la planificación de la actividad de cierre de año de LISA, donde se presentará el sitio web y los resultados de la investigación. 
+
+
+### Otros
+
+El practicante deberá presentar dos borradores de artículo, cápsula o columna de opinión relacionados al trabajo de LISA o del OCS, uno en octubre y otro en noviembre. 
+
+

@@ -14,10 +14,10 @@ editor: visual
 
 ## Hitos
 
-| Observatorio | Mayo                                    | Junio                            | Julio                  | Agosto                                       | Septiembre                                 | Octubre                          | Noviembre   |
-|--------------|-----------------------------------------|----------------------------------|------------------------|----------------------------------------------|--------------------------------------------|----------------------------------|-------------|
-| OCS          | Conversatorio Cohesión Social I         | Conversatorio Cohesión Social II | ISA Forum of Sociology | Presentación Sitio Web y Visualizador OCSVIS | Conversatorio Cohesión Social III          | Conversatorio Cohesión Social IV |             |
-| LISA         | Taller Ciencia Abierta Primera Semestre | Deadline Envio Artículo          |                        | Taller Ciencia Abierta Segundo Semestre I    | Taller Ciencia Abierta Segundo Semester II |                                  | Debate ANID |
+| Observatorio | Mayo | Junio | Julio | Agosto | Septiembre | Octubre | Noviembre |
+|----|----|----|----|----|----|----|----|
+| OCS | Conversatorio Cohesión Social I | Conversatorio Cohesión Social II | ISA Forum of Sociology | Presentación Sitio Web y Visualizador OCSVIS | Conversatorio Cohesión Social III | Conversatorio Cohesión Social IV |  |
+| LISA | Taller Ciencia Abierta Primera Semestre | Deadline Envio Artículo |  | Taller Ciencia Abierta Segundo Semestre I | Taller Ciencia Abierta Segundo Semester II |  | Debate ANID |
 
 ## Actividades y Tareas
 
