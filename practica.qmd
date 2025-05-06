@@ -4,7 +4,17 @@ format: html
 editor: visual
 ---
 
-El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad de Chile contempla que la práctica profesional tiene una duración mínima de 360 horas. Considerando 22 horas semanales, ese plazo se cumple en 17 semanas. A partir de ello, esta planificación tiene un componentente mínimo (las primeras 17 semanas), y un componente opcional (semanas 18 a 25)
+El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad de Chile contempla que la práctica profesional tiene una duración mínima de 360 horas. Considerando 22 horas semanales, ese plazo se cumple en 17 semanas. A partir de ello, esta planificación tiene un componentente mínimo (las primeras 17 semanas), y un componente opcional (semanas 18 a 26 — ocupando todo el presupuesto disponible)
+
+# Fechas Claves
+
+**Inicio**: 12 de mayo
+
+**Punto Medio**: 11 de julio u 8 de agosto
+
+**Fin componente mínimo**: 5 de septiembre
+
+**Fin componente opcional**: 7 de noviembre
 
 # Actividades
 
@@ -41,4 +51,4 @@ Estos dos meses de trabajo (relativos, pues incluye la semana de receso por fies
 
 ## Posts, Columnas o Cápsulas
 
-3 propuestas o borradores de actividades de difusión, ya sea en forma de posts, columnas de opinión o cápsulas de video sobre el trabajo de LISA o el OCS. Tentativamente a ser entregadas en las semanas 9 (11 de julio), 17 (5 de septiembre) y 25 (31 de octubre).
+3 propuestas o borradores de actividades de difusión, ya sea en forma de posts, columnas de opinión o cápsulas de video sobre el trabajo de LISA o el OCS. Tentativamente a ser entregadas en las semanas 9 (11 de julio), 17 (5 de septiembre) y 26 (7 de noviembre).
