@@ -16,10 +16,10 @@ El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad d
 
 Este primer mes de trabajo debería estar orientado a la realización del primer conversatorio a mediados de junio. Por ello, la primera versión del visualizador debería ya estar en línea con datos de Chile y América Latina, sirviendo como insumo para la discusión. Por ello, espero que el practicante pueda:
 
-- Apoyar en la construcción de índices de Cohesión Social en América Latina a partir de LAPOP, Latinobarometro y WVS.
-- Apoyar en la corrección de documentos y repositorios relacionados a los visualizadores.
-- Apoyar en la construcción y publicación del sitio web de OCS, y los visualizadores. 
-- Apoyar en tareas de difusión y logística en las semanas previas al primer conversatorio.
+-   Apoyar en la construcción de índices de Cohesión Social en América Latina a partir de LAPOP, Latinobarometro y WVS.
+-   Apoyar en la corrección de documentos y repositorios relacionados a los visualizadores.
+-   Apoyar en la construcción y publicación del sitio web de OCS, y los visualizadores.
+-   Apoyar en tareas de difusión y logística en las semanas previas al primer conversatorio.
 
 ### Semanas 6 a 10 (16 de junio al 18 de julio)
 
@@ -29,9 +29,9 @@ Además, entre julio y agosto se debería realizan los talleres de Ciencia Abier
 
 ### Semanas 11 a 16 (21 de julio al 29 de agosto)
 
-Este tercer mes estará orientado a la realización del segundo conversatorio, a fines de agosto. El objetivo es enriquecer al visualizador como insumo de discusión, incluyendo otras fuentes nacionales. Por ello, espero que el practicante participe en la construcción de una propuesta de medición de la cohesión social a partir de datos de la Encuesta CASEN y la Encuesta Bicentenario de la UC. 
+Este tercer mes estará orientado a la realización del segundo conversatorio, a fines de agosto. El objetivo es enriquecer al visualizador como insumo de discusión, incluyendo otras fuentes nacionales. Por ello, espero que el practicante participe en la construcción de una propuesta de medición de la cohesión social a partir de datos de la Encuesta CASEN y la Encuesta Bicentenario de la UC.
 
-Por cierto, nuevamente debería involucrarse en las tareas de logística y difusión que requiera la realización del conversatorio. 
+Por cierto, nuevamente debería involucrarse en las tareas de logística y difusión que requiera la realización del conversatorio.
 
 ### Semana 17 (1 al 5 de septiembre)
 
@@ -47,12 +47,9 @@ Estos dos meses de trabajo (relativos, pues incluye la semana de receso por fies
 
 Este último mes de trabajo estará dedicado a LISA, principalmente a dos actividades:
 
-- Revisar y corregir el libro de código de CAIS
-- Apoyar en la planificación de la actividad de cierre de año de LISA, donde se presentará el sitio web y los resultados de la investigación. 
-
+-   Revisar y corregir el libro de código de CAIS
+-   Apoyar en la planificación de la actividad de cierre de año de LISA, donde se presentará el sitio web y los resultados de la investigación.
 
 ### Otros
 
-El practicante deberá presentar dos borradores de artículo, cápsula o columna de opinión relacionados al trabajo de LISA o del OCS, uno en octubre y otro en noviembre. 
-
-
+El practicante deberá presentar dos borradores de artículo, cápsula o columna de opinión relacionados al trabajo de LISA o del OCS, uno en octubre y otro en noviembre.
