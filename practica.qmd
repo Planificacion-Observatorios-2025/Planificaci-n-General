@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad de Chile contempla que la práctica profesional tiene una duración mínima de 360 horas. Considerando 22 horas semanales, ese plazo se cumple en 17 semanas. A partir de ello, esta planificación tiene un componentente mínimo (las primeras 17 semanas), y un componente opcional (semanas 18 a 26 — ocupando todo el presupuesto disponible)
+El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad de Chile contempla que la práctica profesional tiene una duración mínima de 360 horas. Considerando 22 horas semanales, ese plazo se cumple en 17 semanas. A partir de ello, esta planificación tiene un componentente mínimo (las primeras 17 semanas – 5 de septiembre), y un componente opcional (hasta fines de noviembre)
 
 # Fechas Claves
 
@@ -18,26 +18,23 @@ El Reglamento y plan de estudios de la carrera de Sociología de la Univesidad d
 
 # Actividades
 
-[Carta Gantt](https://docs.google.com/spreadsheets/d/1KJkuKqnOW3v9FGIrb8fp4tja7Wz0asYXpW9YySAW8vc/edit?gid=0#gid=0)
-
 ## Componente Mínimo
 
-### Semanas 1 a 5 (12 de mayo al 13 de junio)
+### Mayo
 
 Este primer mes de trabajo debería estar orientado a la realización del primer conversatorio a mediados de junio. Por ello, la primera versión del visualizador debería ya estar en línea con datos de Chile y América Latina, sirviendo como insumo para la discusión. Por ello, espero que el practicante pueda:
 
 -   Apoyar en la construcción de índices de Cohesión Social en América Latina a partir de LAPOP, Latinobarometro y WVS.
 -   Apoyar en la corrección de documentos y repositorios relacionados a los visualizadores.
--   Apoyar en la construcción y publicación del sitio web de OCS, y los visualizadores.
 -   Apoyar en tareas de difusión y logística en las semanas previas al primer conversatorio.
 
-### Semanas 6 a 10 (16 de junio al 18 de julio)
+### Junio/Julio
 
 El segundo mes de trabajo estará orientado a LISA, fundamentalmente a la construcción de la página web. Al final de este período, debería tener lista una propuesta de sitio web para ser revisada y corregida. Este trabajo debe incluir la revisión de los documentos, repositorios y libros de códigos de la investigación del Laboratorio.
 
 Además, entre julio y agosto se debería realizan los talleres de Ciencia Abierta comprometidos, tentantivamente en la Escuela de Invierno ELSOC y en la Jornada de Jóvenes Investigadores de la OBDE (por confirmar). Por lo que el prácticante debería involucrarse en la planificación de estas actividades.
 
-### Semanas 11 a 16 (21 de julio al 29 de agosto)
+### Agosto
 
 Este tercer mes estará orientado a la realización del segundo conversatorio, a fines de agosto. El objetivo es enriquecer al visualizador como insumo de discusión, incluyendo otras fuentes nacionales. Por ello, espero que el practicante participe en la construcción de una propuesta de medición de la cohesión social a partir de datos de la Encuesta CASEN y la Encuesta Bicentenario de la UC.
 
@@ -45,10 +42,47 @@ Por cierto, nuevamente debería involucrarse en las tareas de logística y difus
 
 ## Componente Opcional
 
-### Semanas 18 a 25 (8 de septiembre al 31 de octubre)
+### Septiembre/Octubre
 
 Estos dos meses de trabajo (relativos, pues incluye la semana de receso por fiestas patrias) estarán orientados al tercer conversatorio y a la Conferencia COES (es posible participar en otras instancias, tanto en LISA como en el OCS). Por ello, el trabajo del prácticante estará orientado a seguir complementando el visualizador. Propongo realizar un análisis factorial a la propuesta de medición hecha a partir de ELSOC.
+
+### Noviembre
+
+Mes de cierre. Se deberá terminar cualquier proyecto que haya quedado pendiente o rezagado.
+
+A fines de noviembre se realizará un evento de LISA dónde se presentará el sitio web y la investigación del Laboratorio. El prácticante debería contribuir a la organización de esta actividad.
+
+También deberá crear cápsulas de síntesis, mostrando el trabajo de LISA y OCS durante el año.
 
 ## Posts, Columnas o Cápsulas
 
 3 propuestas o borradores de actividades de difusión, ya sea en forma de posts, columnas de opinión o cápsulas de video sobre el trabajo de LISA o el OCS. Tentativamente a ser entregadas en las semanas 9 (11 de julio), 17 (5 de septiembre) y 26 (7 de noviembre).
+
+# Coordinación con Asistente de Investigación
+
+| Mes | Actividad | Observatorio | Responsable |
+|------------------|------------------|------------------|------------------|
+| Mayo | Construcción de Índices Cohesión A.L. | OCS | Gabriel y Tomás |
+|  | Construcción Página Web OCS | OCS | Gabriel |
+|  | Construcción Visualizador | OCS | Gabriel |
+|  | Corrección documentos visualizador | OCS | Tomás |
+| Junio | Primer Observatorio de Cohesión Social | OCS | OCS |
+|  | Construcción Visualizador ELSOC | OCS | Gabriel |
+|  | Preparación Talleres de Ciencia Abierta | LISA | LISA |
+|  | Análisis Cohesión L.A. | OCS | Gabriel |
+|  | Construcción Sitio Web LISA | LISA | Tomás |
+| Julio | Construcción Sitio Web LISA | LISA | Tomás |
+|  | Corrección documentos, repositorios y libros de códigos CAIS | LISA | Tomás |
+|  | Construcción Indicadores Cohesión Social CASEN/Bicentenario | OCS | Gabriel |
+|  | Taller Ciencia Abierta Escuela de Invierno ELSOC | LISA | LISA |
+| Agosto | Corrección y publicación Sitio web LISA | LISA | Gabriel |
+|  | Construcción Indicadores Cohesión Social CASEN/Bicentenario | OCS | Tomás y Gabriel |
+|  | Taller Ciencia Abierta Jornada Jóvenes Investigadores | LISA | LISA |
+|  | Segundo Conversatorio Cohesión Social | OCS | OCS |
+| Septiembre | Análisis comparado Chile/Alemania | OCS | Gabriel |
+|  | Análisis Factorial ELSOC | OCS | Tomás\* |
+| Octubre | Conferencia COES | LISA & OCS | LISA & OCS |
+| Noviembre | Síntesis del año | LISA & OCS | LISA & OCS |
+|  | Evento LISA | LISA | LISA |
+
+\*En caso de continuar.
